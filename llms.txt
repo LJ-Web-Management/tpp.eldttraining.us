@@ -6,7 +6,7 @@
 
 - [Home](https://tpp.eldttraining.us/): Overview of the ELDT Partner Program.
 - [ELDT Partner Program](https://tpp.eldttraining.us/partner-program.html): Full program details — no setup cost, 50/50 revenue split, full ELDT theory course library, FAQ.
-- [School Districts](https://tpp.eldttraining.us/school-districts.html): In-house ELDT theory training for school bus drivers (Class B CDL + School Bus (S) Endorsement). Bulk per-seat pricing tiers, SCORM packages, and a dedicated landing page contingent on exclusivity as the district's ELDT theory training provider.
+- [School Districts](https://tpp.eldttraining.us/school-districts.html): In-house ELDT theory training for school bus drivers (Class B CDL + Passenger (P) + School Bus (S) Endorsements; the full ELDT library is also available). Bulk per-seat pricing tiers, SCORM packages, and a dedicated landing page contingent on exclusivity as the district's ELDT theory training provider.
 - [Government Agencies](https://tpp.eldttraining.us/government-agencies.html): In-house ELDT theory training for government fleets, covering the full FMCSA ELDT theory course library (Class A, Class B, and every major endorsement). Bulk per-seat pricing tiers, SCORM packages, and a dedicated landing page contingent on exclusivity as the agency's ELDT theory training provider.
 - [Apply](https://tpp.eldttraining.us/apply.html): Application to become an ELDT Training Partner.
 - [About](https://tpp.eldttraining.us/about.html): Company background, mission, leadership, and accreditation.

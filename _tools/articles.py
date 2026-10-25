@@ -248,7 +248,7 @@ ARTICLES = [
 <li><strong>Bilingual courses.</strong> An English/Spanish toggle helps you recruit from a wider pool of applicants.</li>
 </ul>
 
-<div class="inline-cta"><p><strong>Built for districts:</strong> Class B and School Bus theory from $50 per seat, down to $30 at volume, with SCORM available.</p><a href="/school-districts.html" class="btn btn-primary btn-sm">See District Pricing</a></div>
+<div class="inline-cta"><p><strong>Built for districts:</strong> Class B, Passenger, and School Bus theory from $50 per seat, down to $30 at volume, with SCORM available.</p><a href="/school-districts.html" class="btn btn-primary btn-sm">See District Pricing</a></div>
 
 <h2 id="choosing-a-provider">Questions to ask an online theory provider</h2>
 <ul>
@@ -597,7 +597,7 @@ ARTICLES = [
 "takeaways": [
     "Theory and behind-the-wheel can be delivered by different registered providers, so a school can keep BTW and outsource theory.",
     "Online theory frees instructors for in-truck time, lets students start immediately, and removes curriculum maintenance from your plate.",
-    "A partner page lets you keep offering theory under your relationship with the student while earning 50% of every theory sale.",
+    "A partner page lets you keep offering theory to your students while earning 50% of every theory sale.",
 ],
 "body": """
 <h2 id="the-classroom-squeeze">The classroom squeeze</h2>

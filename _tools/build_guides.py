@@ -33,7 +33,7 @@ AUDIENCE_LABELS = [
 
 CTAS = {
     "partner": ("Start Selling ELDT Theory Training", "Get a hosted ELDT theory landing page with no setup cost and a 50/50 revenue split on every course sold.", "/apply.html", "Become a Partner"),
-    "districts": ("In-House ELDT for Your District", "Class B and School Bus theory from $50 per seat, down to $30 at volume, with SCORM packages available.", "/school-districts.html", "See District Pricing"),
+    "districts": ("In-House ELDT for Your District", "Class B, Passenger, and School Bus theory from $50 per seat, down to $30 at volume, with SCORM packages available.", "/school-districts.html", "See District Pricing"),
     "government": ("ELDT Theory for Your Agency", "The full ELDT theory library from $50 per seat, down to $30 at volume, with SCORM packages available.", "/government-agencies.html", "See Agency Pricing"),
 }
 
@@ -250,7 +250,7 @@ def index_page():
   </div>
 </div>
 
-<section class="hero hero-photo" style="--hero-img:url('../images/heroes/hero-eldt.jpg');">
+<section class="hero hero-photo" style="--hero-img:url('../images/heroes/hero-partner-program.jpg');">
   <div class="container" style="max-width:860px;text-align:center;">
     <span class="eyebrow">ELDT Guides &amp; Articles</span>
     <h1>Everything Your Organization Needs to Know About ELDT</h1>
