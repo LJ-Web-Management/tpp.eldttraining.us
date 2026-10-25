@@ -151,8 +151,10 @@ def head(title, description, path, graph, og_type="website", extra_meta=""):
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(description)}">
 <meta name="twitter:image" content="{OG_IMAGE}">
-{extra_meta}<link rel="icon" type="image/png" href="/images/favicon-32.png">
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+{extra_meta}<link rel="icon" href="/favicon.ico?v=2" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg?v=2">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/icon-192.png?v=2">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png?v=2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
