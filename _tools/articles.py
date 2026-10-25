@@ -81,7 +81,7 @@ ARTICLES = [
 </ol>
 <p>That last point is why organizations like CDL schools, staffing agencies, associations, and fleets are adding ELDT theory to what they offer, either to reduce their own costs or to create a new revenue stream.</p>
 
-<div class="inline-cta"><p><strong>Offer ELDT theory without building a course.</strong> Get a hosted, TPR-listed ELDT theory storefront with no setup cost and a 50/50 revenue split.</p><a href="/partner-program.html" class="btn btn-primary btn-sm">See the Partner Program</a></div>
+<div class="inline-cta"><p><strong>Offer ELDT theory without building a course.</strong> Get a hosted, TPR-listed ELDT theory landing page with no setup cost and a 50/50 revenue split.</p><a href="/partner-program.html" class="btn btn-primary btn-sm">See the Partner Program</a></div>
 
 <h2 id="eldt-courses-available">ELDT theory courses at a glance</h2>
 <div class="table-wrap"><table class="compare">
@@ -119,7 +119,7 @@ ARTICLES = [
 "takeaways": [
     "To deliver ELDT theory you must meet the Part 380 curriculum, instructor, and assessment requirements and register each location on the FMCSA Training Provider Registry.",
     "The ongoing work, including course updates, assessments, TPR submissions within two business days, three years of records, and audit readiness, is where most of the real cost lives.",
-    "Partnering with a provider that's already registered lets you offer ELDT theory under a branded page and share the revenue, without carrying the compliance burden.",
+    "Partnering with a provider that's already registered lets you offer ELDT theory through a dedicated landing page and share the revenue, without carrying the compliance burden.",
 ],
 "body": """
 <h2 id="why-organizations-consider-it">Why organizations consider becoming a provider</h2>
@@ -152,11 +152,11 @@ ARTICLES = [
 <p>For an organization that trains hundreds of drivers a year and wants full control, that investment can make sense. For most organizations, the math is much harder to justify.</p>
 
 <h2 id="the-partner-alternative">The faster alternative: partner with a registered provider</h2>
-<p>A partnership model lets you offer ELDT theory to your audience without becoming the provider of record. With the <a href="/partner-program.html">HAZWOPER OSHA Training ELDT Partner Program</a>, for example:</p>
+<p>A partnership model lets you offer ELDT theory to your audience without becoming the provider of record. With the <a href="/partner-program.html">ELDTTraining.us ELDT Partner Program</a>, for example:</p>
 <ul>
 <li>You get a <strong>dedicated, hosted landing page</strong> with the full ELDT theory library: Class A, Class B, B-to-A upgrade, Hazmat, Hazmat &amp; Tank Vehicle, Tanker, Passenger, and School Bus.</li>
 <li>There is <strong>no setup fee and no cost to join</strong>.</li>
-<li>HAZWOPER OSHA Training stays the <strong>seller and training provider of record</strong>, handling checkout, certificates, TPR reporting, recordkeeping, and support.</li>
+<li>ELDTTraining.us stays the <strong>seller and training provider of record</strong>, handling checkout, certificates, TPR reporting, recordkeeping, and support.</li>
 <li>Every course sold through your page is split <strong>50/50</strong> with you.</li>
 <li>Every course includes an <strong>English/Spanish toggle</strong>.</li>
 </ul>
@@ -182,7 +182,7 @@ ARTICLES = [
     ("Does it cost money to register on the FMCSA Training Provider Registry?", "There is no federal registration fee. The costs of becoming a provider come from building and maintaining a compliant curriculum, assessments, platform, instructors, reporting, and records."),
     ("How long do ELDT training providers have to report completions?", "Providers must submit a driver's completion to the Training Provider Registry by midnight of the second business day after the driver completes training."),
     ("How long must ELDT training records be kept?", "Training providers must retain ELDT records for at least three years."),
-    ("Can I sell ELDT theory training without becoming a registered provider?", "Yes, by partnering with a registered provider. In the HAZWOPER OSHA Training ELDT Partner Program, HAZWOPER OSHA Training remains the provider and seller of record while partners get a branded landing page and a 50/50 revenue split."),
+    ("Can I sell ELDT theory training without becoming a registered provider?", "Yes, by partnering with a registered provider. In the ELDTTraining.us ELDT Partner Program, ELDTTraining.us remains the provider and seller of record while partners get a dedicated landing page and a 50/50 revenue split."),
 ],
 "related": ["what-is-eldt", "fmcsa-training-provider-registry-guide", "add-eldt-training-revenue-associations-consultants"],
 },
@@ -386,7 +386,7 @@ ARTICLES = [
 </ul>
 <p>The benefits are practical: drivers can start theory immediately instead of waiting for a classroom cohort, instructors spend their time in the vehicle instead of at a whiteboard, and theory costs become predictable per driver.</p>
 
-<div class="inline-cta"><p><strong>Run behind-the-wheel? Add theory without building it.</strong> Offer the full ELDT theory library from a branded page and earn 50% of every sale.</p><a href="/partner-program.html" class="btn btn-primary btn-sm">Explore the Program</a></div>
+<div class="inline-cta"><p><strong>Run behind-the-wheel? Add theory without building it.</strong> Offer the full ELDT theory library from your own dedicated page and earn 50% of every sale.</p><a href="/partner-program.html" class="btn btn-primary btn-sm">Explore the Program</a></div>
 
 <h2 id="hazmat-exception">The Hazmat exception</h2>
 <p>The Hazardous Materials (H) endorsement is the only ELDT category with <strong>no behind-the-wheel requirement</strong>. Drivers complete hazmat theory, and the state checks the TPR before administering the H knowledge test. That makes hazmat one of the simplest courses to deliver entirely online. See our <a href="/guides/hazmat-endorsement-eldt-requirements.html">Hazmat endorsement ELDT guide</a>.</p>
@@ -452,7 +452,7 @@ ARTICLES = [
 
 <h2 id="for-resellers">If you resell or recommend training</h2>
 <p>Organizations that send drivers to a provider (staffing agencies, associations, consultants, or fleets) put their reputation on the line with every recommendation. A partner model where the TPR-listed provider remains the provider of record means the compliance, reporting, and recordkeeping obligations stay with the provider, while you still offer the training to your audience.</p>
-<p>HAZWOPER OSHA Training is listed on the FMCSA Training Provider Registry for ELDT theory and stays the provider and seller of record for every course sold through an <a href="/partner-program.html">ELDT Partner Program</a> page.</p>
+<p>ELDTTraining.us is listed on the FMCSA Training Provider Registry for ELDT theory and stays the provider and seller of record for every course sold through an <a href="/partner-program.html">ELDT Partner Program</a> page.</p>
 """,
 "faqs": [
     ("How do I check if an ELDT provider is registered?", "Search FMCSA's Training Provider Registry by provider name or location, and confirm the listing includes the training type (theory or behind-the-wheel) and the specific courses you need."),
@@ -507,7 +507,7 @@ ARTICLES = [
 
 <h2 id="fleet-as-partner">Turning your network into revenue</h2>
 <p>Large fleets often sit at the center of a network: owner-operators, lease-purchase drivers, local partner carriers, and job applicants who don't yet qualify. All of them may need ELDT theory at some point.</p>
-<p>With the <a href="/partner-program.html">ELDT Partner Program</a>, a fleet can launch a dedicated landing page offering the full ELDT theory library to its network at no setup cost. HAZWOPER OSHA Training handles checkout, certificates, TPR reporting, and support, and splits every sale 50/50 with the fleet. You can also purchase training on your drivers' behalf through the same page.</p>
+<p>With the <a href="/partner-program.html">ELDT Partner Program</a>, a fleet can launch a dedicated landing page offering the full ELDT theory library to its network at no setup cost. ELDTTraining.us handles checkout, certificates, TPR reporting, and support, and splits every sale 50/50 with the fleet. You can also purchase training on your drivers' behalf through the same page.</p>
 
 <div class="inline-cta"><p><strong>Give your recruits and drivers a place to start training today.</strong> No setup cost. 50/50 revenue split.</p><a href="/apply.html" class="btn btn-primary btn-sm">Apply Now</a></div>
 """,
@@ -532,7 +532,7 @@ ARTICLES = [
 "lead": "Staffing agencies and workforce programs are often the first stop for people who want to become CDL drivers. ELDT theory is the natural first training step for those candidates, and offering it can turn your candidate pool into a qualified driver pipeline.",
 "takeaways": [
     "Candidates without a CDL need ELDT before they can test, so theory is the first training step you can offer them.",
-    "Offering ELDT theory through a branded partner page keeps candidates engaged with your agency instead of drifting to a school or competitor.",
+    "Offering ELDT theory through your own partner landing page keeps candidates engaged with your agency instead of drifting to a school or competitor.",
     "In a partner model you earn 50% of every course sold while the registered provider handles compliance, reporting, and support.",
 ],
 "body": """
@@ -559,7 +559,7 @@ ARTICLES = [
 <ul>
 <li><strong>No setup fee</strong> and no platform cost.</li>
 <li>Candidates <strong>buy directly</strong>, or your agency <strong>buys on their behalf</strong>, for example as a hiring incentive.</li>
-<li>HAZWOPER OSHA Training is the <strong>provider and seller of record</strong>, handling checkout, certificates, TPR reporting, recordkeeping, and support.</li>
+<li>ELDTTraining.us is the <strong>provider and seller of record</strong>, handling checkout, certificates, TPR reporting, recordkeeping, and support.</li>
 <li>Every sale is split <strong>50/50</strong> with your agency.</li>
 </ul>
 <p>Because you never become the training provider of record, you take on no curriculum, reporting, or audit obligations.</p>
@@ -576,7 +576,7 @@ ARTICLES = [
 </ul>
 """,
 "faqs": [
-    ("Can a staffing agency offer ELDT training without being a registered provider?", "Yes. Through the ELDT Partner Program, HAZWOPER OSHA Training remains the registered provider and seller of record, while the agency offers training through its own dedicated landing page."),
+    ("Can a staffing agency offer ELDT training without being a registered provider?", "Yes. Through the ELDT Partner Program, ELDTTraining.us remains the registered provider and seller of record, while the agency offers training through its own dedicated landing page."),
     ("How much does a staffing agency earn from ELDT courses?", "Partners earn 50% of the revenue from every course sold through their ELDT Partner Program landing page."),
     ("Can our agency purchase training for candidates?", "Yes. Partners can let candidates buy courses directly or purchase training on their behalf."),
 ],
@@ -623,7 +623,7 @@ ARTICLES = [
 </ul>
 
 <h2 id="keeping-revenue">Keeping theory revenue</h2>
-<p>The biggest worry schools have about outsourcing theory is losing that revenue. A partner model solves it. With the <a href="/partner-program.html">ELDT Partner Program</a>, your school gets a dedicated landing page offering the full theory library. Students buy through your page (or you buy on their behalf as part of tuition), HAZWOPER OSHA Training handles delivery and compliance, and every sale is split 50/50 with you.</p>
+<p>The biggest worry schools have about outsourcing theory is losing that revenue. A partner model solves it. With the <a href="/partner-program.html">ELDT Partner Program</a>, your school gets a dedicated landing page offering the full theory library. Students buy through your page (or you buy on their behalf as part of tuition), ELDTTraining.us handles delivery and compliance, and every sale is split 50/50 with you.</p>
 <p>You can also send graduates back to your page later when they need an upgrade or a new endorsement, which turns one-time students into long-term customers.</p>
 
 <div class="inline-cta"><p><strong>Put your instructors back in the truck.</strong> Add online ELDT theory to your school at no cost.</p><a href="/apply.html" class="btn btn-primary btn-sm">Apply as a School</a></div>
@@ -721,7 +721,7 @@ ARTICLES = [
 ],
 "body": """
 <h2 id="can-eldt-be-in-spanish">Can ELDT theory be taken in Spanish?</h2>
-<p>The FMCSA ELDT rule sets curriculum and assessment requirements but doesn't restrict the language of instruction. Many registered providers offer Spanish versions of theory courses, and some, like HAZWOPER OSHA Training, include an <strong>English/Spanish toggle</strong> on every course so drivers can switch languages at any time.</p>
+<p>The FMCSA ELDT rule sets curriculum and assessment requirements but doesn't restrict the language of instruction. Many registered providers offer Spanish versions of theory courses, and some, like ELDTTraining.us, include an <strong>English/Spanish toggle</strong> on every course so drivers can switch languages at any time.</p>
 <p>A toggle is particularly useful for bilingual learners. A driver can read a hours-of-service module in Spanish to understand the concept, then switch to English to learn the exact terms they'll see on logs, signs, and inspection reports.</p>
 
 <h2 id="english-proficiency">English language proficiency still applies</h2>
@@ -749,7 +749,7 @@ ARTICLES = [
 <div class="inline-cta"><p><strong>Every course includes an English/Spanish toggle.</strong> Offer bilingual ELDT theory to your audience from your own page.</p><a href="/partner-program.html" class="btn btn-primary btn-sm">Learn More</a></div>
 """,
 "faqs": [
-    ("Can I take ELDT theory training in Spanish?", "Yes. The ELDT rule does not restrict the language of instruction, and many registered providers offer Spanish theory courses. HAZWOPER OSHA Training includes an English/Spanish toggle on every course."),
+    ("Can I take ELDT theory training in Spanish?", "Yes. The ELDT rule does not restrict the language of instruction, and many registered providers offer Spanish theory courses. ELDTTraining.us includes an English/Spanish toggle on every course."),
     ("Do CDL drivers need to speak English?", "Yes. Under 49 CFR 391.11(b)(2), commercial drivers must read and speak English sufficiently to communicate with the public, understand traffic signs, respond to official inquiries, and complete reports."),
     ("Can the CDL knowledge test be taken in Spanish?", "It depends on the state. Each state licensing agency sets its own policy on knowledge test languages, so check with yours."),
 ],
@@ -769,7 +769,7 @@ ARTICLES = [
 "lead": "If drivers, carriers, or fleet managers already trust you, you're in a strong position to offer them ELDT training. Here's how associations, consultants, and suppliers are adding a training revenue stream without becoming training companies.",
 "takeaways": [
     "ELDT theory is a recurring need: every new CDL, upgrade, and first-time P, S, or H endorsement requires it.",
-    "Organizations with an engaged audience can offer it through a branded partner page with no setup cost.",
+    "Organizations with an engaged audience can offer it through your own partner landing page with no setup cost.",
     "The registered provider handles delivery, compliance, and support; you earn 50% of every sale.",
 ],
 "body": """
@@ -798,7 +798,7 @@ ARTICLES = [
 <li><strong>Apply.</strong> Tell us about your organization and audience.</li>
 <li><strong>Launch.</strong> We build a dedicated landing page with the full ELDT theory library. There's no setup fee.</li>
 <li><strong>Share.</strong> Promote the page to your members, clients, or customers.</li>
-<li><strong>Earn.</strong> HAZWOPER OSHA Training handles checkout, certificates, TPR reporting, and support, and splits every sale 50/50 with you.</li>
+<li><strong>Earn.</strong> ELDTTraining.us handles checkout, certificates, TPR reporting, and support, and splits every sale 50/50 with you.</li>
 </ol>
 <p>See full details on the <a href="/partner-program.html">ELDT Partner Program page</a>, including <a href="/partner-program.html#program-terms">program terms</a>.</p>
 
@@ -815,12 +815,12 @@ ARTICLES = [
 <div class="inline-cta"><p><strong>Already have the audience?</strong> Launch your ELDT training page with no setup cost and earn 50% of every sale.</p><a href="/apply.html" class="btn btn-primary btn-sm">Become a Partner</a></div>
 
 <h2 id="faq-liability">What about liability and compliance?</h2>
-<p>Because HAZWOPER OSHA Training remains the merchant and training provider of record, partners take on no payment processing, course content, or TPR reporting responsibility. Your landing page is your audience's doorway into registered ELDT theory training.</p>
+<p>Because ELDTTraining.us remains the merchant and training provider of record, partners take on no payment processing, course content, or TPR reporting responsibility. Your landing page is your audience's doorway into registered ELDT theory training.</p>
 """,
 "faqs": [
     ("Who can join the ELDT Partner Program?", "Any business or organization with an audience that needs ELDT training, including associations, consultants, staffing agencies, schools, fleets, suppliers, school districts, and government agencies."),
     ("Is there a cost to become a partner?", "No. There is no setup fee and no cost to join."),
-    ("Who handles customer support for partner sales?", "HAZWOPER OSHA Training handles checkout, certificates, Training Provider Registry reporting, recordkeeping, and learner support for every purchase made through a partner page."),
+    ("Who handles customer support for partner sales?", "ELDTTraining.us handles checkout, certificates, Training Provider Registry reporting, recordkeeping, and learner support for every purchase made through a partner page."),
 ],
 "related": ["how-to-become-eldt-theory-training-provider", "eldt-for-staffing-agencies", "fmcsa-training-provider-registry-guide"],
 },
