@@ -182,7 +182,7 @@ ARTICLES = [
     ("Does it cost money to register on the FMCSA Training Provider Registry?", "There is no federal registration fee. The costs of becoming a provider come from building and maintaining a compliant curriculum, assessments, platform, instructors, reporting, and records."),
     ("How long do ELDT training providers have to report completions?", "Providers must submit a driver's completion to the Training Provider Registry by midnight of the second business day after the driver completes training."),
     ("How long must ELDT training records be kept?", "Training providers must retain ELDT records for at least three years."),
-    ("Can I sell ELDT theory training without becoming a registered provider?", "Yes, by partnering with a registered provider. In the ELDTTraining.us ELDT Partner Program, ELDTTraining.us remains the provider and seller of record while partners get a dedicated landing page and a 50/50 revenue split."),
+    ("Can I sell ELDT theory training without becoming a registered provider?", "Yes, by partnering with a registered provider. In the ELDTTraining.us ELDT Partner Program, ELDTTraining.us (operated by registered provider HAZWOPER OSHA Training) remains the provider and seller of record while partners get a dedicated landing page and a 50/50 revenue split."),
 ],
 "related": ["what-is-eldt", "fmcsa-training-provider-registry-guide", "add-eldt-training-revenue-associations-consultants"],
 },
@@ -452,7 +452,7 @@ ARTICLES = [
 
 <h2 id="for-resellers">If you resell or recommend training</h2>
 <p>Organizations that send drivers to a provider (staffing agencies, associations, consultants, or fleets) put their reputation on the line with every recommendation. A partner model where the TPR-listed provider remains the provider of record means the compliance, reporting, and recordkeeping obligations stay with the provider, while you still offer the training to your audience.</p>
-<p>ELDTTraining.us is listed on the FMCSA Training Provider Registry for ELDT theory and stays the provider and seller of record for every course sold through an <a href="/partner-program.html">ELDT Partner Program</a> page.</p>
+<p>ELDTTraining.us is operated by HAZWOPER OSHA Training, which is listed on the FMCSA Training Provider Registry for ELDT theory (search the registry for &ldquo;HAZWOPER OSHA Training&rdquo;), and stays the provider and seller of record for every course sold through an <a href="/partner-program.html">ELDT Partner Program</a> page.</p>
 """,
 "faqs": [
     ("How do I check if an ELDT provider is registered?", "Search FMCSA's Training Provider Registry by provider name or location, and confirm the listing includes the training type (theory or behind-the-wheel) and the specific courses you need."),
@@ -576,7 +576,7 @@ ARTICLES = [
 </ul>
 """,
 "faqs": [
-    ("Can a staffing agency offer ELDT training without being a registered provider?", "Yes. Through the ELDT Partner Program, ELDTTraining.us remains the registered provider and seller of record, while the agency offers training through its own dedicated landing page."),
+    ("Can a staffing agency offer ELDT training without being a registered provider?", "Yes. Through the ELDT Partner Program, ELDTTraining.us, operated by registered provider HAZWOPER OSHA Training, remains the provider and seller of record, while the agency offers training through its own dedicated landing page."),
     ("How much does a staffing agency earn from ELDT courses?", "Partners earn 50% of the revenue from every course sold through their ELDT Partner Program landing page."),
     ("Can our agency purchase training for candidates?", "Yes. Partners can let candidates buy courses directly or purchase training on their behalf."),
 ],

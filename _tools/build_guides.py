@@ -140,7 +140,7 @@ def article_page(a):
     <div class="article-meta">
       <span>{CAL} Updated {human_date(PUBLISHED)}</span>
       <span>{CLOCK} {mins} min read</span>
-      <span>{SHIELD} By the ELDTTraining.us team, an FMCSA TPR-listed ELDT theory provider</span>
+      <span>{SHIELD} By the ELDTTraining.us team at HAZWOPER OSHA Training, an FMCSA TPR-listed ELDT theory provider</span>
     </div>
   </div>
 </section>
