@@ -1,6 +1,6 @@
-# HAZWOPER OSHA Training — ELDT Partner Program
+# ELDTTraining.us — ELDT Partner Program
 
-> HAZWOPER OSHA Training is listed on the FMCSA Training Provider Registry and delivers accredited, bilingual (English/Spanish) FMCSA ELDT theory training online. Through the ELDT Partner Program, businesses, school districts, and government agencies can get a dedicated, branded landing page selling that same ELDT theory training, without building or hosting a training platform themselves.
+> ELDTTraining.us is operated by HAZWOPER OSHA Training, which is listed on the FMCSA Training Provider Registry, and delivers accredited, bilingual (English/Spanish) FMCSA ELDT theory training online. Through the ELDT Partner Program, businesses, school districts, and government agencies can get a dedicated ELDTTraining.us landing page selling that same ELDT theory training, without building or hosting a training platform themselves.
 
 ## Core pages
 
@@ -30,8 +30,8 @@
 
 ## Key facts
 
-- Accredited provider: HAZWOPER OSHA Training is listed on the FMCSA Training Provider Registry for ELDT theory training.
+- Accredited provider: ELDTTraining.us is operated by HAZWOPER OSHA Training. Training is delivered by HAZWOPER OSHA Training, which is listed on the FMCSA Training Provider Registry for ELDT theory training.
 - Courses: FMCSA ELDT theory only (not behind-the-wheel training or skills testing) — Class A, Class B, Class B-to-A upgrade, HAZMAT (H), Hazmat & Tank Vehicle (X), Tanker (N), Passenger (P), and School Bus (S) endorsements. Every course includes an English/Spanish toggle.
-- ELDT Partner Program: no setup cost; HAZWOPER OSHA Training remains the seller of record, handling checkout, certificates, recordkeeping, and support; revenue is split 50/50 with the partner.
-- School Districts / Government Agencies pricing: per-seat, volume-tiered (lower rate at higher seat counts); hosted seats or a SCORM package for the buyer's own LMS; a dedicated landing page and locked-in bulk pricing require the district/agency to remain an exclusive ELDT theory training customer of HAZWOPER OSHA Training.
+- ELDT Partner Program: no setup cost; ELDTTraining.us remains the seller of record, handling checkout, certificates, recordkeeping, and support; revenue is split 50/50 with the partner.
+- School Districts / Government Agencies pricing: per-seat, volume-tiered (lower rate at higher seat counts); hosted seats or a SCORM package for the buyer's own LMS; a dedicated landing page and locked-in bulk pricing require the district/agency to remain an exclusive ELDT theory training customer of ELDTTraining.us.
 - Contact: sales@hazwoper-osha.com, +1-866-429-6742.

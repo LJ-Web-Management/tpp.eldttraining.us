@@ -18,13 +18,14 @@ GTAG = """<!-- Google tag (gtag.js) -->
 ORG = {
     "@type": "Organization",
     "@id": SITE + "/#organization",
-    "name": "HAZWOPER OSHA Training",
+    "name": "ELDTTraining.us",
     "url": SITE + "/",
-    "logo": SITE + "/images/logo.webp",
+    "logo": SITE + "/images/eldt-logo.png",
     "email": "sales@hazwoper-osha.com",
     "telephone": "+1-866-429-6742",
-    "sameAs": ["https://hazwoper-osha.com/"],
-    "description": "HAZWOPER OSHA Training is listed on the FMCSA Training Provider Registry and delivers accredited, bilingual ELDT theory training online nationwide.",
+    "sameAs": ["https://eldttraining.us/"],
+    "parentOrganization": {"@type": "Organization", "name": "HAZWOPER OSHA Training", "url": "https://hazwoper-osha.com/"},
+    "description": "ELDTTraining.us is operated by HAZWOPER OSHA Training, which is listed on the FMCSA Training Provider Registry, and delivers accredited, bilingual ELDT theory training online nationwide.",
 }
 
 CHEV = '<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 4.5 6 7.5 9 4.5"/></svg>'
@@ -74,7 +75,7 @@ def nav_html(active, prefix=""):
 def header(active):
     return f"""<header class="site-header">
   <div class="container header-inner">
-    <a href="/" class="logo"><img src="/images/logo.webp" alt="HAZWOPER OSHA Training" class="logo-img" width="154" height="28"></a>
+    <a href="/" class="logo"><img src="/images/eldt-logo.png" alt="ELDT Training" class="logo-img" width="197" height="30"></a>
     <nav class="main-nav" id="mainNav">
       <ul>
 {nav_html(active)}
@@ -93,8 +94,8 @@ def header(active):
 FOOTER = """<footer class="site-footer">
   <div class="container footer-grid">
     <div class="footer-col footer-brand">
-      <a href="/" class="logo footer-logo"><img src="/images/logo.webp" alt="HAZWOPER OSHA Training" class="logo-img" width="143" height="26"></a>
-      <p>ELDT theory training for CDL drivers, listed on the FMCSA Training Provider Registry. Online, bilingual, and available nationwide through our ELDT Partner Program.</p>
+      <a href="/" class="logo footer-logo"><img src="/images/eldt-logo-light.png" alt="ELDT Training" class="logo-img" width="197" height="30"></a>
+      <p>ELDT theory training for CDL drivers, delivered by HAZWOPER OSHA Training, which is listed on the FMCSA Training Provider Registry. Online, bilingual, and available nationwide through our ELDT Partner Program.</p>
     </div>
     <div class="footer-col">
       <h4>Program</h4>
@@ -119,8 +120,8 @@ FOOTER = """<footer class="site-footer">
     </div>
   </div>
   <div class="footer-bottom container">
-    <p>&copy; 2026 HAZWOPER OSHA Training. All rights reserved.</p>
-    <p class="footer-disclaimer">HAZWOPER OSHA Training is the accredited provider and seller of record for all courses sold through ELDT Partner Program landing pages, and shares 50% of course revenue with its Training Partners.</p>
+    <p>&copy; 2026 ELDTTraining.us. All rights reserved.</p>
+    <p class="footer-disclaimer">ELDTTraining.us is operated by HAZWOPER OSHA Training, the FMCSA Training Provider Registry&ndash;listed provider and seller of record for all courses sold through ELDT Partner Program landing pages, and shares 50% of course revenue with its Training Partners.</p>
   </div>
 </footer>
 
@@ -141,7 +142,7 @@ def head(title, description, path, graph, og_type="website", extra_meta=""):
 <link rel="canonical" href="{url}">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta property="og:type" content="{og_type}">
-<meta property="og:site_name" content="HAZWOPER OSHA Training">
+<meta property="og:site_name" content="ELDTTraining.us">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{url}">
@@ -154,7 +155,7 @@ def head(title, description, path, graph, og_type="website", extra_meta=""):
 <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css">
 <script type="application/ld+json">
 {ld}

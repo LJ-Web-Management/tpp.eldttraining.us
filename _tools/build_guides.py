@@ -32,7 +32,7 @@ AUDIENCE_LABELS = [
 ]
 
 CTAS = {
-    "partner": ("Start Selling ELDT Theory Training", "Get a hosted ELDT theory storefront with no setup cost and a 50/50 revenue split on every course sold.", "/apply.html", "Become a Partner"),
+    "partner": ("Start Selling ELDT Theory Training", "Get a hosted ELDT theory landing page with no setup cost and a 50/50 revenue split on every course sold.", "/apply.html", "Become a Partner"),
     "districts": ("In-House ELDT for Your District", "Class B and School Bus theory from $50 per seat, down to $30 at volume, with SCORM packages available.", "/school-districts.html", "See District Pricing"),
     "government": ("ELDT Theory for Your Agency", "The full ELDT theory library from $50 per seat, down to $30 at volume, with SCORM packages available.", "/government-agencies.html", "See Agency Pricing"),
 }
@@ -140,7 +140,7 @@ def article_page(a):
     <div class="article-meta">
       <span>{CAL} Updated {human_date(PUBLISHED)}</span>
       <span>{CLOCK} {mins} min read</span>
-      <span>{SHIELD} By the HAZWOPER OSHA Training team, an FMCSA TPR-listed ELDT theory provider</span>
+      <span>{SHIELD} By the ELDTTraining.us team at HAZWOPER OSHA Training, an FMCSA TPR-listed ELDT theory provider</span>
     </div>
   </div>
 </section>
@@ -212,7 +212,7 @@ def article_page(a):
 
 def index_page():
     path = "/guides/"
-    title = "ELDT Guides & Articles for Employers, Schools & Agencies | HAZWOPER OSHA"
+    title = "ELDT Guides & Articles for Employers, Schools & Agencies | ELDTTraining.us"
     desc = "Practical guides to FMCSA Entry-Level Driver Training (ELDT) for trucking companies, CDL schools, staffing agencies, school districts, government fleets, and training partners."
     graph = [
         ORG,
@@ -278,7 +278,7 @@ def index_page():
     <div class="cta-banner cta-banner-yellow">
       <div>
         <h2>Offer ELDT Theory Training to Your Audience</h2>
-        <p>A hosted, TPR-listed ELDT theory storefront. No setup cost, and every sale splits 50/50.</p>
+        <p>A hosted, TPR-listed ELDT theory landing page. No setup cost, and every sale splits 50/50.</p>
       </div>
       <a href="/apply.html" class="btn btn-primary">Become a Partner</a>
     </div>
