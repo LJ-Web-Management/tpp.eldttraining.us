@@ -216,7 +216,8 @@ p { margin: 0 0 1em; color: var(--text-2); }
 }
 .has-dropdown:hover .dropdown,
 .has-dropdown:focus-within .dropdown { opacity: 1; visibility: visible; transform: translateY(0) scale(1); }
-.dropdown li a { display: block; padding: 10px 12px; border-radius: var(--r-thumb); font-size: 13.5px; font-weight: 550; color: var(--text); }
+.main-nav .dropdown { display: block; }
+.dropdown li a { display: block; padding: 10px 14px; border-radius: var(--r-thumb); font-size: 14px; font-weight: 500; color: var(--text); white-space: nowrap; }
 .dropdown li a:hover { background: rgba(0,0,0,.05); }
 
 .header-actions { display: flex; align-items: center; gap: 12px; }
